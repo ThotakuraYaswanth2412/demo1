@@ -11,4 +11,5 @@ public class Singleton{
 	        return singleton;
 	  }
      }
+	System.out.println("Singleton Java Class");
 }
